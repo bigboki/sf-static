@@ -1,0 +1,20 @@
+{
+  "assets": {
+    "/public/assets/css/main.css": {
+      "path": "/1/asset/immutable/s/16807431524842126/public/assets/css/main.css",
+      "mimeType": "text/css"
+    },
+    "/public/assets/favicon.ico": {
+      "path": "/public/assets/favicon.ico",
+      "mimeType": "image/vnd.microsoft.icon"
+    },
+    "/public/assets/recipes-logo.png": {
+      "path": "/public/assets/recipes-logo.png",
+      "mimeType": "image/png"
+    },
+    "/favicon.ico": {
+      "path": "/favicon.ico",
+      "mimeType": "image/vnd.microsoft.icon"
+    }
+  }
+}
